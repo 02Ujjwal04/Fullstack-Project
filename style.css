@@ -1,0 +1,10 @@
+*{margin: 0; padding: 0; box-sizing: border-box; font-family: 'Tektur', cursive;}
+.carousel-inner img{
+    height: 75vh;
+    width: 100%;
+}
+
+.aboutimg{
+    width: 100%;
+    height: 350px !important;
+}
